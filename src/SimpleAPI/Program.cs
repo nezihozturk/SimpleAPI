@@ -12,6 +12,7 @@ namespace SimpleAPI
     public class Program
     {
         //merhaba
+        //merhaba
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
